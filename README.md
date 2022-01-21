@@ -15,11 +15,11 @@ Anything related to IT is welcome. Feel free to contact me!
 
 ## Research Interest
 
-- **Data Pipeline**
-- **Data Architecture** on the Edge Cloud such as Connected DataLake, Data Mesh, etc
-  - **BlockChain** Technologies, especially related to **IPFS** (i.e. FileCoin)
-- **AI Pipeline**
-- **HCI (Human-Computer Interaction)** (+ BMI)
+- Data Pipeline
+- Data Architecture on the Edge Cloud such as Connected DataLake, Data Mesh, etc
+  - BlockChain Technologies, especially related to IPFS (i.e. FileCoin)
+- AI Pipeline
+- HCI (Human-Computer Interaction) (+ BMI)
 - Automation of X
 
 <br clear="right"/>
