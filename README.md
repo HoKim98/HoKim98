@@ -4,6 +4,8 @@ I am in NetAI (Networked Artificial Intelligence Lab, GIST, South Korea) that de
 
 ## About Me
 
+Anything related to IT is welcome. Feel free to contact me!
+
 - Name: Ho Kim
 - Email: ho.kim@smartx.kr
 - GitHub: https://github.com/kerryeon
