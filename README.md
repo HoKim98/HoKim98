@@ -4,6 +4,8 @@ I am in NetAI (Networked Artificial Intelligence Lab, GIST, South Korea) that de
 
 ## About Me
 
+<img align="right" src="https://github.com/kerryeon/kerryeon/blob/master/profile.png?raw=true">
+
 Anything related to IT is welcome. Feel free to contact me!
 
 - Name: Ho Kim
@@ -14,11 +16,13 @@ Anything related to IT is welcome. Feel free to contact me!
 ## Research Interest
 
 - **Data Pipeline**
-  - **Data Architecture** on the Edge Cloud such as Connected DataLake, Data Mesh, etc
-    - **BlockChain** Technologies, especially related to **IPFS** (i.e. FileCoin)
-  - **AI Pipeline**
-  - **HCI (Human-Computer Interaction)** (+ BMI)
-  - Automation of X
+- **Data Architecture** on the Edge Cloud such as Connected DataLake, Data Mesh, etc
+  - **BlockChain** Technologies, especially related to **IPFS** (i.e. FileCoin)
+- **AI Pipeline**
+- **HCI (Human-Computer Interaction)** (+ BMI)
+- Automation of X
+
+<br clear="right"/>
 
 ## Education
 
