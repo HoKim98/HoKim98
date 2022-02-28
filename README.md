@@ -26,8 +26,8 @@ Anything related to IT is welcome. Feel free to contact me!
 
 ## Education
 
-- (expected) 2022\. 03\. ~ TBD: Ph.D. Student of Artificial Intelligence Graduate School, GIST, South Korea
-- 2021\. 03\. ~ Current: M.S. Student of Artificial Intelligence Graduate School, GIST, South Korea
+- 2022\. 03\. ~ Current: Ph.D. Student of Artificial Intelligence Graduate School, GIST, South Korea
+- 2021\. 03\. ~ 2022\. 02\.: M.S. Student of Artificial Intelligence Graduate School, GIST, South Korea
 - 2017\. 03\. ~ 2021\. 02\.: Bachelor of Science, Computer Science, First Class Honor, Gyeongsang National University, South Korea
 - 2014\. 03\. ~ 2017\. 02\.: Pohang High School, South Korea
 
@@ -40,7 +40,7 @@ Anything related to IT is welcome. Feel free to contact me!
 
 ### Domestic Conferences
 
-- (Accepted) **Ho Kim**, DongWhan Ku and JongWon Kim, "Cloud-native Metadata Lake using OpenCAS," in Proc. KICS (Korea Institute of Communications and Information Sciences) 2022 Winter Conference, Pyeongchang, Korea, February, 2022.
+- **Ho Kim**, DongWhan Ku and JongWon Kim, "Cloud-native Metadata Lake using OpenCAS," in Proc. KICS (Korea Institute of Communications and Information Sciences) 2022 Winter Conference, Pyeongchang, Korea, February, 2022.
 - **Ho Kim** and JongWon Kim, "Automated Multi-site Deployment of Bare-metal Cloud-native Edge Clusters," in Proc. KICS (Korea Institute of Communications and Information Sciences) 2021 Fall Conference, Yeosu, Korea, November, 2021.
 - **Ho Kim**, Jun-Sik Shin, and JongWon Kim, "Prototype Implementation of All-flash DataPond Cluster employing OpenCAS Cache Acceleration with Optane Memory,"  in Proc. KICS (Korea Institute of Communications and Information Sciences) 2021 Summer Conference, Jeju, Korea, June, 2021.
 
