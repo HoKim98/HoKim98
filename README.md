@@ -1,6 +1,13 @@
 # 💖 Hello World 🤭
 
-I am in NetAI (Networked Artificial Intelligence Lab, GIST, South Korea) that defines and pioneers 'AI+X'.
+I am in NetAI (Networked Artificial Intelligence Lab, GIST, South Korea) that defines and pioneers **`ABCD`**.
+
+I am also a preliminary Entrepreneur+CEO of [`UlagBulag Village`](), which provides innovative solutions by dividing and conquering the entire data pipeline from Bare-metal to FaaS.
+
+- **A**I (Artificial Intelligence)
+- **B**lockchain
+- **C**loud
+- **D**ata
 
 ## About Me
 
@@ -9,12 +16,15 @@ I am in NetAI (Networked Artificial Intelligence Lab, GIST, South Korea) that de
 Anything related to IT is welcome. Feel free to contact me!
 
 - Name: Ho Kim
-- Email: ho.kim@smartx.kr
+- Email
+  - As a student: ho.kim@smartx.kr
+  - As a preliminary CEO: ho.kim@ulagbulag.io
 - GitHub: https://github.com/kerryeon
-- Location: GIST C210 (NetAI Lab), South Korea
+- Location: [GIST C210 (NetAI Lab), South Korea](https://goo.gl/maps/Z419iejqWRJrLwoDA)
 
 ## Research Interest
 
+- **ABCD** (**A**I, **B**lockchain, **C**loud, **D**ata)
 - Data Pipeline
 - Data Architecture on the Edge Cloud such as Connected DataLake, Data Mesh, etc
   - BlockChain Technologies, especially related to IPFS (i.e. FileCoin)
