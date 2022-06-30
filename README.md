@@ -2,7 +2,7 @@
 
 I am in [NetAI (Networked Artificial Intelligence Lab, GIST, South Korea)](https://netai.smartx.kr/) that defines and pioneers **`ABCD`**.
 
-I am also a preliminary Entrepreneur+CEO of [UlagBulag Village](https://ulagbulag.io/), which provides innovative solutions by dividing and conquering the entire data pipeline from Bare-metal to FaaS.
+I am also a Founder+CEO of [UlagBulag Village](https://ulagbulag.io/), which provides innovative solutions by dividing and conquering the entire data pipeline from Bare-metal to FaaS.
 
 * **A**I (Artificial Intelligence)
 * **B**lockchain
