@@ -18,7 +18,7 @@ Anything related to IT is welcome. Feel free to contact me!
 * Name: Ho Kim
 * Email
   + As a student: ho.kim@smartx.kr
-  + As a preliminary CEO: ho.kim@ulagbulag.io
+  + As a CEO: ho.kim@ulagbulag.io
 * GitHub: https://github.com/kerryeon
 * Location: [GIST C210 (NetAI Lab), South Korea](https://goo.gl/maps/Z419iejqWRJrLwoDA)
 
@@ -50,7 +50,7 @@ Anything related to IT is welcome. Feel free to contact me!
 
 ### Domestic Conferences
 
-* **Ho Kim**, DongWhan Ku and JongWon Kim, "Cloud-native Metadata Lake using OpenCAS, " in Proc. KICS (Korea Institute of Communications and Information Sciences) 2022 Winter Conference, Pyeongchang, Korea, February, 2022.
+* **Ho Kim**, DongHwan Ku and JongWon Kim, "Cloud-native Metadata Lake using OpenCAS, " in Proc. KICS (Korea Institute of Communications and Information Sciences) 2022 Winter Conference, Pyeongchang, Korea, February, 2022.
 * **Ho Kim** and JongWon Kim, "Automated Multi-site Deployment of Bare-metal Cloud-native Edge Clusters, " in Proc. KICS (Korea Institute of Communications and Information Sciences) 2021 Fall Conference, Yeosu, Korea, November, 2021.
 * **Ho Kim**, Jun-Sik Shin, and JongWon Kim, "Prototype Implementation of All-flash DataPond Cluster employing OpenCAS Cache Acceleration with Optane Memory, "  in Proc. KICS (Korea Institute of Communications and Information Sciences) 2021 Summer Conference, Jeju, Korea, June, 2021.
 
