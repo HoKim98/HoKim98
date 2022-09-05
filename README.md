@@ -18,7 +18,7 @@ Anything related to IT is welcome. Feel free to contact me!
 * Name: Ho Kim
 * Email
   + As a student: ho.kim@smartx.kr
-  + As a CEO: ho.kim@ulagbulag.io
+  + As a CEO: ho.kim@ulagbulag.io (not yet activated)
 * GitHub: https://github.com/kerryeon
 * Location: [GIST C210 (NetAI Lab), South Korea](https://goo.gl/maps/Z419iejqWRJrLwoDA)
 
