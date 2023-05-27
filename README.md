@@ -20,6 +20,6 @@ My main focus right now is building a Cloud-native Desktop Environment.
 ## [OpenARK](https://github.com/ulagbulag/OpenARK)
 
 * [ARK](https://github.com/ulagbulag/OpenARK/tree/master/ark): Cloud-native Desktop Environment Package Manager (and repos)
-* [DASH](https://github.com/ulagbulag/OpenARK/tree/master/dash): K8S+Storage-Aware API Gateway
+* [DASH](https://github.com/ulagbulag/OpenARK/tree/master/dash): K8S+Storage-aware API Gateway
 * [KISS](https://github.com/ulagbulag/OpenARK/tree/master/kiss): Cloud-native Bare-metal Box Provisioning Operator
 * [VINE](https://github.com/ulagbulag/OpenARK/tree/master/vine): Cloud-native Desktop Environment Provisioning Operator
