@@ -11,9 +11,9 @@ I'm an CAIO of [Clondstone](https://cloudstone.ai/). Here, I develop and share t
 
 My main focus right now is building a Cloud-native Desktop Environment.
 
+* Urban Robot: I am researching urban development plans where humans and robots can coexist.
 * MobileX: I automatically install and manage the necessary programs so that students can easily practice AI and IoT at educational sites such as schools.
 * X+AI: I am researching convenient interaction methods so that I can enjoy the optimal HPC environment to utilize AI anytime, anywhere.
-* 
 * Storage: I want to keep my and my customers' data safe from accidents and mishandling. So I'm working on a convenient way to configure and deploy a storage network relationship for data backup and recovery.
 * Management Tool: I am developing an integrated control system that encompasses rack mounting, K8S configuration, and organization.
 
