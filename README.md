@@ -1,35 +1,25 @@
 # 💖 Hello World 🤭
 
-I am in [NetAI (Networked Artificial Intelligence Lab, GIST, South Korea)](https://netai.smartx.kr/) that defines and pioneers **`ABCD`**.
+I'm Ho Kim.
+I'm working on my Ph.D in [NetAI (Networked Artificial Intelligence Lab, GIST, South Korea)](https://netai.smartx.kr/).
 
-I am also a CEO of [UlagBulag Village](https://ulagbulag.io/), which provides innovative solutions by dividing and conquering the entire data pipeline from Bare-metal to FaaS.
+I'm a CEO of [UlagBulag Village](https://ulagbulag.io/), which defines and pioneers **[`Cloud-native Desktop Environment`](https://github.com/ulagbulag/OpenARK)**.
 
-* **A**I (Artificial Intelligence)
-* **B**lockchain
-* **C**loud
-* **D**ata
+I'm an CAIO of [Clondstone](https://cloudstone.ai/). Here, I develop and share technologies such as Food Concierge, Vehicle Route Optimization, Delivery Robot Control in City, and AI Market Analysis.
 
-## About Me
+## My Focus
 
-<img align="right" src="https://github.com/kerryeon/kerryeon/blob/master/profile.png?raw=true">
+My main focus right now is building a Cloud-native Desktop Environment.
 
-Anything related to IT is welcome. Feel free to contact me!
+* MobileX: I automatically install and manage the necessary programs so that students can easily practice AI and IoT at educational sites such as schools.
+* X+AI: I am researching convenient interaction methods so that I can enjoy the optimal HPC environment to utilize AI anytime, anywhere.
+* 
+* Storage: I want to keep my and my customers' data safe from accidents and mishandling. So I'm working on a convenient way to configure and deploy a storage network relationship for data backup and recovery.
+* Management Tool: I am developing an integrated control system that encompasses rack mounting, K8S configuration, and organization.
 
-* Name: Ho Kim
-* Email: ho.kim@smartx.kr
-* GitHub: https://github.com/kerryeon
-* Location: [GIST C210 (NetAI Lab), South Korea](https://goo.gl/maps/Z419iejqWRJrLwoDA)
+## [OpenARK](https://github.com/ulagbulag/OpenARK)
 
-## Research Interest
-
-* **ABCD** (**A**I, **B**lockchain, **C**loud, **D**ata)
-* Data Pipeline
-* Data Architecture on the Edge Cloud such as Connected DataLake, Data Mesh, etc
-  + BlockChain Technologies, especially related to IPFS (i.e. FileCoin)
-* AI Pipeline
-* HCI (Human-Computer Interaction) (+ BMI)
-* Automation of X
-
-<br clear="right"/>
-
-![Metrics](https://github.com/kerryeon/kerryeon/blob/master/metrics.svg)
+* [ARK](https://github.com/ulagbulag/OpenARK/tree/master/ark): Cloud-native Desktop Environment Package Manager (and repos)
+* [DASH](https://github.com/ulagbulag/OpenARK/tree/master/dash): K8S+Storage-Aware API Gateway
+* [KISS](https://github.com/ulagbulag/OpenARK/tree/master/kiss): Cloud-native Bare-metal Box Provisioning Operator
+* [VINE](https://github.com/ulagbulag/OpenARK/tree/master/vine): Cloud-native Desktop Environment Provisioning Operator
