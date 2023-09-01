@@ -6,4 +6,4 @@ I'm working on my Ph.D in [NetAI (Networked Artificial Intelligence Lab, GIST, S
 
 I'm a founder of [UlagBulag Village](https://ulagbulag.io/), which defines and pioneers **[`Cloud-native Desktop Environment`](https://github.com/ulagbulag/OpenARK)**.
 
-I am also a research director of [Clondstone](https://www.cloudstone.ai/). Here, I develop and share technologies such as Food Concierge, Vehicle Route Optimization, Delivery Robot Control in City, and AI Market Analysis.
+I am also a research volunteer (free director) of [Clondstone](https://www.cloudstone.ai/). Here, I develop and share technologies such as Food Concierge, Vehicle Route Optimization, Delivery Robot Control in City, and AI Market Analysis.
