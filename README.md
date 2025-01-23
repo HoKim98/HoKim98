@@ -8,6 +8,8 @@ I'm Ho Kim, and I like Rust!
 
 ## OSS Contributions
 
+* Member of [Kubernetes Community](https://github.com/orgs/kubernetes-sigs/people?query=HoKim98)
+* Owner of [GIST SmartX Team](https://github.com/orgs/SmartX-Team/people?query=HoKim98)
 * [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 * [Unofficial KakaoTalk AUR package for (Arch) Linux](https://github.com/ulagbulag/kakaotalk)
 * ...Encountered bugs, typos and issues along the way (ai, blockchain, cloud, data lake, ...)
