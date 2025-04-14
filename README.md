@@ -4,7 +4,7 @@ I'm Ho Kim, and I like Rust!
 
 ## Research
 
-* Ph.D student of [GIST NetAI Lab.](https://netai.smartx.kr/)
+* Ph.D student of [GIST NetAI Lab.](https://netai.smartx.kr/) @ Cloud-Native Desktop Environment
 
 ## OSS Contributions
 
